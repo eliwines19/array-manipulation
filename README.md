@@ -18,3 +18,5 @@
 * Concat
 * Sort
 * Reverse
+
+## here is a link to the article: https://elijahwines.medium.com/array-manipulation-methods-2a0c21c487ef
