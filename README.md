@@ -10,7 +10,6 @@
 * Reduce
 * Map
 * ForEach
-* Split
 * Join
 * Every
 * Some
